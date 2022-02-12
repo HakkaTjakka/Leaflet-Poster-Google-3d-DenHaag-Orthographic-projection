@@ -20,6 +20,8 @@ https://github.com/HakkaTjakka/PROJECT-CGI-BTE121-LEAFLET
 
 ![clipboard_small](https://github.com/HakkaTjakka/Leaflet-Poster-Google-3d-DenHaag-Orthographic-projection/blob/main/Poster%201/14/1/0/r.10.4.jpg)
 
+![clipboard_small](https://github.com/HakkaTjakka/Leaflet-Poster-Google-3d-DenHaag-Orthographic-projection/blob/main/Poster%201/14/1/0/r.12.3.jpg)
+
 
 
 
