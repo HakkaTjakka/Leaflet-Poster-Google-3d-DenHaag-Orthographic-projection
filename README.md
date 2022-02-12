@@ -23,5 +23,10 @@ https://github.com/HakkaTjakka/PROJECT-CGI-BTE121-LEAFLET
 ![clipboard_small](https://github.com/HakkaTjakka/Leaflet-Poster-Google-3d-DenHaag-Orthographic-projection/blob/main/Poster%201/14/1/0/r.12.3.jpg)
 
 
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/Leaflet-Poster-Google-3d-DenHaag-Orthographic-projection/blob/main/den_haag_youtube.jpg)](https://www.youtube.com/watch?v=kSRFD73Bcw8)
+(Click to play vid)
+
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/Leaflet-Poster-Google-3d-DenHaag-Orthographic-projection/blob/main/den_haag2_youtube.jpg)](https://www.youtube.com/watch?v=vdRfE87CReA)
+(Click to play vid)
 
 
